@@ -1,7 +1,4 @@
-# Astro-gs
-Astro gs aka eon (fixed compiling issues)
-
-it does have some cool stuff but i didnt test them
+# Some old astro gs
 
 idrk do this even work but there u go. 
 
