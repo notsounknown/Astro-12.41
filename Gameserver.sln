@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Astro", "Gameserver.vcxproj", "{C813E8BF-C39D-47F4-90E8-1621A9538674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		EU|x64 = EU|x64
+		EU|x86 = EU|x86
+		MineekPrivate|x64 = MineekPrivate|x64
+		MineekPrivate|x86 = MineekPrivate|x86
+		MineekPublic|x64 = MineekPublic|x64
+		MineekPublic|x86 = MineekPublic|x86
+		One Shot|x64 = One Shot|x64
+		One Shot|x86 = One Shot|x86
+		Playground|x64 = Playground|x64
+		Playground|x86 = Playground|x86
+		Testing|x64 = Testing|x64
+		Testing|x86 = Testing|x86
+		VPS|x64 = VPS|x64
+		VPS|x86 = VPS|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Debug|x64.ActiveCfg = Debug|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Debug|x64.Build.0 = Debug|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Debug|x86.ActiveCfg = Debug|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Debug|x86.Build.0 = Debug|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.EU|x64.ActiveCfg = EU|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.EU|x64.Build.0 = EU|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.EU|x86.ActiveCfg = EU|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.EU|x86.Build.0 = EU|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPrivate|x64.ActiveCfg = MineekPrivate|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPrivate|x64.Build.0 = MineekPrivate|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPrivate|x86.ActiveCfg = MineekPrivate|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPrivate|x86.Build.0 = MineekPrivate|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPublic|x64.ActiveCfg = MineekPublic|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPublic|x64.Build.0 = MineekPublic|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPublic|x86.ActiveCfg = MineekPublic|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.MineekPublic|x86.Build.0 = MineekPublic|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.One Shot|x64.ActiveCfg = One Shot|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.One Shot|x64.Build.0 = One Shot|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.One Shot|x86.ActiveCfg = One Shot|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.One Shot|x86.Build.0 = One Shot|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Playground|x64.ActiveCfg = Playground|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Playground|x64.Build.0 = Playground|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Playground|x86.ActiveCfg = Playground|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Playground|x86.Build.0 = Playground|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Testing|x64.ActiveCfg = Release|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Testing|x64.Build.0 = Release|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Testing|x86.ActiveCfg = Release|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.Testing|x86.Build.0 = Release|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.VPS|x64.ActiveCfg = VPS|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.VPS|x64.Build.0 = VPS|x64
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.VPS|x86.ActiveCfg = VPS|Win32
+		{C813E8BF-C39D-47F4-90E8-1621A9538674}.VPS|x86.Build.0 = VPS|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0A8BE4-E5D0-4448-8BFD-40B49EA784D1}
+	EndGlobalSection
+EndGlobal

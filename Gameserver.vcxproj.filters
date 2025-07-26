@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{41cb142e-080a-4331-b212-73c3299a223c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{e8bfeea6-b768-414e-bf82-181dbb9b43c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Misc">
+      <UniqueIdentifier>{a7e6c03e-e59b-4c27-9436-9e35d5f8b8ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PCH">
+      <UniqueIdentifier>{3562cb78-ffb6-419d-96e2-9d41ed43eadf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Basic.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\CoreUObject_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Engine_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\FortniteGame_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\GameplayAbilities_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\EasyAntiCheatCommon_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\AIModule_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="PCH.cpp">
+      <Filter>Header Files\PCH</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PropertyFixup.hpp">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK.hpp">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Abilities.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerController.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Looting.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Backend.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerState.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Vehicles.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessEvent.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="SpyGames.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="XP.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="VendingMachines.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PCH.h">
+      <Filter>Header Files\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\pch.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="LootLlama.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PlooshAI.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="memcury.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Header Files\Misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
